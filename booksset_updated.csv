@@ -1,0 +1,201 @@
+index,Category,Name,Author,KeyWords,soup
+0,Religious,AmaWathura,Gurulugomi,"['gurulugomi', 'gatapada', 'parani', 'pali', 'attakatha']",gurulugomi gatapada parani pali attakatha
+1,Religious,ButhSarana,Widyachakrawarthin,"['widyachakrawarthin', 'jathaka', 'weerakatha', 'parani', 'tharasaya']",widyachakrawarthin jathaka weerakatha parani tharasaya
+2,Religious,Paramartha Wibagaya Sahitha Winayopadeshaya,Witiyala Sri Sarananda Maha Sthawira,"['upadesha', 'winayakarma', 'poojakrama', 'daramaya', 'sralabasa']",upadesha winayakarma poojakrama daramaya sralabasa
+3,Religious,Pachna Prabha,Thrikunamalaye Ananda Sthawira,"['prachnawa', 'weerya', 'arisenahubudu', 'samajaya', 'nirwanayaawabodaya']",prachnawa weerya arisenahubudu samajaya nirwanayaawabodaya
+4,Religious,Budu Dahama Ha Buddagama,M.M.J Marasingha,"['parinirwanaya', 'bauddaithihasaya', 'ethihasikasthana', 'poojakrama', 'wandanakrama']",parinirwanaya bauddaithihasaya ethihasikasthana poojakrama wandanakrama
+5,Religious,Datawanshaya,Mahadharya Wagama Piyarathana Himi,"['indiya', 'lankawa', 'ethihasikasthana', 'dladamaligawa', 'rajakatha']",indiya lankawa ethihasikasthana dladamaligawa rajakatha
+6,Religious,Maha Bodhi Wansha Granthi Padaya,Gathare Dammapala Himi,"['buudacharithaya', 'sinhala', 'srimahabodiya', 'wanshakatha', 'pali']",buudacharithaya sinhala srimahabodiya wanshakatha pali
+7,Religious,Pansiya Panas Jathaka Katha Potha Saha Gatum Nirakaranaya,Sarath Hettiarachchi Piyanama,"['gatum', 'jathakakatha', 'smajaya', 'indiya', 'deshapalanika']",gatum jathakakatha smajaya indiya deshapalanika
+8,Religious,Sahana,Dawamottawe Himi,"['nuwana', 'mawa', 'adaraya', 'saralbasa', 'diyunuweemekrama']",nuwana mawa adaraya saralbasa diyunuweemekrama
+9,Religious,Baudda Darshanaya Adyanaya,Mahacharya Akirigala Nanda Himi,"['saradarma', 'bauudadarshanaya', 'nirwanaya', 'karmaya', 'gaburudarmaya']",saradarma bauudadarshanaya nirwanaya karmaya gaburudarmaya
+10,Religious,Chaththalisakara Maha Wipassana Bawanawa,Rerukane Chandawimala Maha Sthawira,"['rerukanechandawimalamahasthawira', 'bawana', 'karmaya', 'nirwanaya', 'anithya']",rerukanechandawimalamahasthawira bawana karmaya nirwanaya anithya
+11,Religious,Bikshu Bikshununi Prathimoksha Warnanawa,Poojya Panangala Jinarathana Nahimi,"['wimukthiya', 'bikshu', 'prathimokshaya', 'wishuddimargaya', 'nirwanaya']",wimukthiya bikshu prathimokshaya wishuddimargaya nirwanaya
+12,Religious,Kudusika Wiwaranaya,Panditha Waligama Chanarathana Himi,"['wiwarana', 'bikshu', 'seelaya', 'gatha', 'sirithwirith']",wiwarana bikshu seelaya gatha sirithwirith
+13,Religious,Mahanakama Ha Samanera Bana Daham Potha,Handu Palpola Mahinda Sthawira,"['bikshu', 'winayakrma', 'sirithwirith', 'shasanaya', 'wiharasthana']",bikshu winayakrma sirithwirith shasanaya wiharasthana
+14,Religious,Sadacharawibawiniya,Thotagamuwe Panchamolithissa Himi,"['shasanika', 'pali', 'buduguna', 'bawana', 'poojakrama']",shasanika pali buduguna bawana poojakrama
+15,Religious,Baudda Winchanawadaya,Hiripitiye Panchchakiththi Himi,"['nuwana', 'gaburudaramaya', 'mokshaya', 'nirwanaya', 'winchanaya']",nuwana gaburudaramaya mokshaya nirwanaya winchanaya
+16,Religious,Manawa Aithiwasikam Pilibanda Baudda Chinthanaya,Acharya Palanwatte Dammathilaka Himi,"['manushheya', 'ithiwasikam', 'samajaya', 'aluth', 'wimukthiya']",manushheya ithiwasikam samajaya aluth wimukthiya
+17,Religious,Bududahamin Pilibibu wana Pelabim Nyaya,Rajakeeya Panditha Balangoda Sobitha Himi,"['mithya', 'manusheeya', 'winchanaya', 'hethupaladarmaya']",mithya manusheeya winchanaya hethupaladarmaya
+18,Religious,Buddagama Mithyawa Saha Niwana,Ananda Senarathna,"['drmaya', 'nirwanaya', 'aluth', 'kopaya', 'poojakrama']",drmaya nirwanaya aluth kopaya poojakrama
+19,Religious,Metherin Etherata,Madagoda Abayathissa Himi,"['madagodaabayathissahimi', 'amagagula', 'karmaya', 'wimukthiya', 'saralbasa']",madagodaabayathissahimi amagagula karmaya wimukthiya saralbasa
+20,Religious,Prabudda,Ahalepola Mahinda Himi,"['punarbawaya', 'patichchasamuppadaya', 'athmaya', 'sharshthriya', '']",punarbawaya patichchasamuppadaya athmaya sharshthriya 
+21,Religious,Sath Piyuma,Lakshman Kahatapitiya,"['diyunuwa', 'uthsahaya', 'weera', 'seelaya', 'daramamargaya']",diyunuwa uthsahaya weera seelaya daramamargaya
+22,Religious,Budun Wadala Kshana Wadaya,Kularathna Nakkawaththa,"['thriwidya', 'wimukthiya', 'hethupaladarmaya', 'maranaya', 'gburudarmaya']",thriwidya wimukthiya hethupaladarmaya maranaya gburudarmaya
+23,Religious,Ama Gagula,Madagoda Abayathissa Himi,"['madagodaabayathissahimi', 'metherinetherata', 'snsaraya', 'karma', 'lokawinashaya']",madagodaabayathissahimi metherinetherata snsaraya karma lokawinashaya
+24,Religious,Winaya Karma Potha,Rerukane Chandawimala Maha Sthawira,"['winayakrma', 'rerukanechandawimalamahasthawira', 'sirithwirith', 'bikshu', 'katinpinkam']",winayakrma rerukanechandawimalamahasthawira sirithwirith bikshu katinpinkam
+25,Religious,Abhidarma Sammuchchiya,Henpitagedara Chanaseeha Himi,"['abhidarmaya', 'pali', 'gaburudarmaya', 'mahayanadarmaya', 'karma']",abhidarmaya pali gaburudarmaya mahayanadarmaya karma
+26,Religious,Abidarmarartha Darma Sangrahaya,Rerukane Chandawimala Maha Sthawira,"['rerukanechandawimalamahasthawira', 'kusalakusal', 'sitha', 'abidarmaya', 'gaburudarmaya']",rerukanechandawimalamahasthawira kusalakusal sitha abidarmaya gaburudarmaya
+27,Religious,Bikshu Bumikawa,Poojya Aththangane Sasanarathana Himi,"['bikshu', 'winayakrma', 'sirithwirith', 'shasanaya', 'saralabasa']",bikshu winayakrma sirithwirith shasanaya saralabasa
+28,Religious,Wishuddi Marga Maha Sannasa,Poojya Agalakada Sirisumana Himi,"['wishuddimargamahasannasa', 'parani', 'saralbasa', 'seelaya', 'prachnawa']",wishuddimargamahasannasa parani saralbasa seelaya prachnawa
+29,Religious,Wishuddi Margaya,Buddagosha Himi,"['buddagoshahimi', 'parani', 'ethihasika', 'attakatha', 'palai']",buddagoshahimi parani ethihasika attakatha palai
+30,Religious,Islam Ithihasaya,M.A Mohomad,"['islam', 'naninayakathuma', 'ithihasika', 'muhammadthuma', 'allahdewiyan']",islam naninayakathuma ithihasika muhammadthuma allahdewiyan
+31,Religious,Sathyaye Nimeshaya,Suho Okawa,"['daramaya', 'japanaya', 'dewlowa', 'sathuta', 'adayathmikakatha']",daramaya japanaya dewlowa sathuta adayathmikakatha
+32,Religious,Thawo Dahama,Acharya Polgaswatte Paramannda Himi,"['twodarmaya', 'sahithya', 'sirithwirith', 'ethihasika', 'purawurtha']",twodarmaya sahithya sirithwirith ethihasika purawurtha
+33,Religious,Thawo ,S.H. Perera,"['tawodarmaya', 'cheenaya', 'bawana', 'gaburudarmaya', 'manusheeya']",tawodarmaya cheenaya bawana gaburudarmaya manusheeya
+34,Religious,Nabi nayaka Charithaya,M.Mu. Uwais,"['nabinayakathuma', 'jiwithakatha', 'parani', 'muslim', 'sirithwirith']",nabinayakathuma jiwithakatha parani muslim sirithwirith
+35,Religious,Bagawath Geethawa,H. Sangadasa Perera,"['wishwaya', 'lokaya', 'indiya', 'parani', 'hindu']",wishwaya lokaya indiya parani hindu
+36,Religious,Maha Barathaya,Mahacharya Sucharitha Gamlath,"['indiya', 'hindu', 'dewa', 'raja', 'parani']",indiya hindu dewa raja parani
+37,Religious,Weda Geetha Sambawana,A.S Balasooriya,"['chathurwedaya', 'sobadahama', 'parisaraya', 'gadya', 'padya']",chathurwedaya sobadahama parisaraya gadya padya
+38,Religious,Upanishad,C.A Don Senewirathna,"['hindu', 'dewa', 'brahmanasankalpa', 'wedanawa', 'darmaya']",hindu dewa brahmanasankalpa wedanawa darmaya
+39,Religious,RamayanaYathra,Saman Chandrasingha,"['premanwitha', 'weera', 'raja', 'indiya', 'parani']",premanwitha weera raja indiya parani
+40,History,Seethawaka Urumaya,"Prishantha Gunawardhana, Gamani Adhikari","['seethawaka', 'pragithihasikathorathuru', 'rajyathanthraya', 'wasthuwidyawa', 'sahithya']",seethawaka pragithihasikathorathuru rajyathanthraya wasthuwidyawa sahithya
+41,History,Seethawaka Rajadhaniye Unnathiye da Awanathiye da Samahara Ansha Pilibada Wimarshanayak,Mahacharya Risiman Amarasingha,"['seethawaka', 'wijayabakollaya', 'mayadunne', 'palaweniraajasinha', 'mulleriyasatana']",seethawaka wijayabakollaya mayadunne palaweniraajasinha mulleriyasatana
+42,History,Seethawaka Raajasinhage nonimi mehewara,Neel Ranawaka,"['sinhalaraajadhani', 'seethawaka', 'greekadharshanaya', 'hayawanaparakramabahu', 'sapumalkumaru']",sinhalaraajadhani seethawaka greekadharshanaya hayawanaparakramabahu sapumalkumaru
+43,History,Seethawaka Yugaye Purawidhyathmaka ha Ithihasika sthana,S.A. Amitha Withana,"['seethawaka', 'berendikoowila', 'purawidhyanatabun', 'samandhewala', 'paththinidhewala']",seethawaka berendikoowila purawidhyanatabun samandhewala paththinidhewala
+44,History,Etha Atheethye Lankawe Landhesi Aakramanikayinge Dhina satahan ha waartha.,Nissanka Perera,"['landhesi', 'pruthugrisi', 'dhinasatahan', 'prabhuulipi', 'kerali']",landhesi pruthugrisi dhinasatahan prabhuulipi kerali
+45,History,Parangi Kootte,Tikiri Abesingha,"['parangi', 'kootte', 'udarata', 'dheshapalanaya', 'yudhakatayuthu']",parangi kootte udarata dheshapalanaya yudhakatayuthu
+46,History,Udarata sansKruthika abhimanaya,G. Ulluwisheewa,"['udarata', 'kulakramaya', 'janasaahithya', 'govithena', 'edahilihaviswasa']",udarata kulakramaya janasaahithya govithena edahilihaviswasa
+47,History,Amurthapura Wyasanaya,A. K. Thilakarathna,"['lankaithihasaya', 'dharmadhweepaya', 'helaithihasaya', 'piriheema', 'aagamika']",lankaithihasaya dharmadhweepaya helaithihasaya piriheema aagamika
+48,History,Wallipuram Ran Sannasa ha Hela Urumaya,Sirisaman Wijethunga,"['wallipuramranpatha', 'budupilimanirmanaya', 'purawidhyawa', 'mahindhagamanaya', 'kushtaraajagala']",wallipuramranpatha budupilimanirmanaya purawidhyawa mahindhagamanaya kushtaraajagala
+49,History,Lanka Ithihasaye Hela Yugaya,Aacharya Sooriya Gunaseekara,"['helashishtacharaya', 'asuraadhirajya', 'raawana', 'helaguwanyana', 'shilalipi']",helashishtacharaya asuraadhirajya raawana helaguwanyana shilalipi
+50,History,Lankawe Samaja ha Sanskruthika Ithihasaya,Mahacharya S. B. Hettiarachchi,"['sanskruthika', 'perani', 'samajakramaya', 'kulaya', 'wiwahaya']",sanskruthika perani samajakramaya kulaya wiwahaya
+51,History,Dheshaye Asahaya Wimukthidhayakaya Maha Wijayabahu,Gunasena Gamage,"['mahawijayabahu', 'soleeadhirajya', 'keerthikumaru', 'satan', 'paluttagirisangramaya']",mahawijayabahu soleeadhirajya keerthikumaru satan paluttagirisangramaya
+52,History,Anuradhapura Maha Wiharaya,Wasantha Sanjeewa Hettiarachchi,"['anuradhapuraya', 'mahawiharaya', 'natabhun', 'wasthuwidhyawa', 'muurthikarma']",anuradhapuraya mahawiharaya natabhun wasthuwidhyawa muurthikarma
+53,History,Sri Lanka Ithihasaya,Nadheesha Sharmali Gunawardhana,"['anuradhapuraya', 'pandukabhayaraja', 'dheewanampiyathissayugaya', 'mahawanshaya', 'elara']",anuradhapuraya pandukabhayaraja dheewanampiyathissayugaya mahawanshaya elara
+54,History,Yata giya Ape Urumaya 1,Udheeni Chandrasiri,"['magadharajya', 'mauryaadhirajya', 'pragithihasikayugaya', 'rawanaraju', 'rama']",magadharajya mauryaadhirajya pragithihasikayugaya rawanaraju rama
+55,History,Brahmachari Walisinha Harishchandrage Anuradapura nam u Puujaneeya Nagaraya,Upali Rathnayaka,"['anuradhapuraya', 'mahamegaudhyanaya', 'dheewanampiyathissaraju', 'mahaseemawa', 'bududhahama']",anuradhapuraya mahamegaudhyanaya dheewanampiyathissaraju mahaseemawa bududhahama
+56,History,Widheshiya Aakramana ha Lankawe Wimukthi Satan ,A. M. Karunathilaka,"['ramageaakramanaya', 'wijaya', 'pandukaabaya', 'murundashiwa', 'seenaguththika']",ramageaakramanaya wijaya pandukaabaya murundashiwa seenaguththika
+57,History,Pileethiyas Dhutu Lankawa,Palitha Jayakodi,"['pileethiyas', 'lankawerajawanshaya', 'jeewanathathwaya', 'aagama', 'charithrawarithra']",pileethiyas lankawerajawanshaya jeewanathathwaya aagama charithrawarithra
+58,History,Udarata Withthi,P. M. P. Abhayasinha,"['udarata', 'dewanarajasinha', 'narendrasinha', 'sangarajakathikawatha', 'mahanuwara']",udarata dewanarajasinha narendrasinha sangarajakathikawatha mahanuwara
+59,History,Abhulabhe Gama,Senewi Epitawaththa,"['abhulabhegama', 'edahilihawishwasa', 'heengowithena', 'wiwahaya', 'awamangalacharitra']",abhulabhegama edahilihawishwasa heengowithena wiwahaya awamangalacharitra
+60,History,Mahacharya Wilhelm Gaigar Asirimath Lankawa,Mahindha Pathirana,"['deshatawartha', 'lankawepihitima', 'nishpadhana', 'landheesi', 'ingrisi']",deshatawartha lankawepihitima nishpadhana landheesi ingrisi
+61,History,Sinhale Wimukthi Sanana,Sumedha Weerawardhana,"['wimukthisatan', 'ahelepolamahaadhikaram', 'uwawellassenidhahassatana', 'kohukubhureraterala', 'wedhijanaya']",wimukthisatan ahelepolamahaadhikaram uwawellassenidhahassatana kohukubhureraterala wedhijanaya
+62,History,Neela Maha Yuwaraja Parapura,Hemal Gamage,"['roohanaya', 'lambhakaranarajapelapatha', 'gajabharaju', 'neelamahayoodhaya', 'neealamahayuwaraja']",roohanaya lambhakaranarajapelapatha gajabharaju neelamahayoodhaya neealamahayuwaraja
+63,History,19 wana Siyawase Sri Lankawe Jathika Aagamika Aragala,Siri Thilakasiri,"['aragala', 'lakminipahanejathikasatana', 'siloonleegsatana', 'sinhalapuwathpath', 'badhdhegamawadhaya']",aragala lakminipahanejathikasatana siloonleegsatana sinhalapuwathpath badhdhegamawadhaya
+64,History,Uwa Wellassa Kendra kotagath Dhesha Wimukthi Satana(1817-1818),Athipujya Nuwaraeliye Chandrajoothi Mahanahimi,"['wimukthisatan', 'udarata', 'pruthugrisihalandhesi', 'ingrisi', 'udaratagiwisuma']",wimukthisatan udarata pruthugrisihalandhesi ingrisi udaratagiwisuma
+65,History,Mahawanshaya ha Sri Lankawe Ithihasa Sampradhaya,Mangala Inangasinha,"['mahawanshaya', 'bharathaya', 'srilankawa', 'anuradhapuraya', 'budhudhahama']",mahawanshaya bharathaya srilankawa anuradhapuraya budhudhahama
+66,History,Idhuwara Paryeshanathmaka Lekhana Sangrahaya Ithihasaya,"Dhaya Amarasekara, Rohitha Dhasanayaka","['pragithihasikayugaya', 'peranimalekhana', 'warithakshanaya', 'rajya', 'rajyathwaya']",pragithihasikayugaya peranimalekhana warithakshanaya rajya rajyathwaya
+67,History,Dhilli Sulthan Rajya,W. M. K. Wijethunga,"['dhillisulthanrajya', 'islamdharmaya', 'muslimrajya', 'arabiakraman', 'thurkiakramana']",dhillisulthanrajya islamdharmaya muslimrajya arabiakraman thurkiakramana
+68,History,Purathana Indheeya Shishtacharaya,H. T. Basnayaka ,"['shishtachara', 'indhunimna', 'waidhika', 'magadhaadhirajya', 'mauryaadhirajya']",shishtachara indhunimna waidhika magadhaadhirajya mauryaadhirajya
+69,History,Muugal Indhiyawa,W. M. K. Wijethunga,"['muugaladhirajya', 'mahaakbarraju', 'shajahan', 'tajmahala', 'wasthuwidhyawa']",muugaladhirajya mahaakbarraju shajahan tajmahala wasthuwidhyawa
+70,History,Indheeya Shishtacharaya 2,"H. T. Basnayaka, Yamuna Herath","['harshawardhanaraju', 'paalarajapelapatha', 'prathihararajya', 'rashtakuutarajya', 'chalukyarajapelapatha']",harshawardhanaraju paalarajapelapatha prathihararajya rashtakuutarajya chalukyarajapelapatha
+71,History,Aprikanu Wanantharaye Sethapum Wisidhahasak,Sujeewa Dhisanayaka,"['aprikawa', 'wananthara', 'mosioatunya', 'hoyokandha', 'kiwwila']",aprikawa wananthara mosioatunya hoyokandha kiwwila
+72,History,Amerika Eksath Janapadha Ithihasaya 1945-1989,Ukku Banda Karunanandha,"['dhewanalokayudhdhaya', 'seethalayudhdhaya', 'truumanaisanhawar', 'kenadijonsan', 'niksanford']",dhewanalokayudhdhaya seethalayudhdhaya truumanaisanhawar kenadijonsan niksanford
+73,History,Amerika Eksath Janapadha Ithihasaya 1877-1945,Ukku Banda Karunanandha,"['amerikawa', 'dheshapalanaya', 'siwilyudhdhaya', 'dhewanalookayudhdhaya', 'bolranyugaya']",amerikawa dheshapalanaya siwilyudhdhaya dhewanalookayudhdhaya bolranyugaya
+74,History,Lookaye Purana Shishtachara Ijipthuwa,Malinga Amarasinha,"['ijipthuwa', 'shishtachara', 'sanskruthiya', 'wasthuwidhyawa', 'pirameeda']",ijipthuwa shishtachara sanskruthiya wasthuwidhyawa pirameeda
+75,History,Pinbara Thailanthaya Hadhuna Ganimu,Gamini Paliheena,"['thailanthaya', 'dhewrajusankallpaya', 'gruhanirmanashilpaya', 'muurthishilpaya', 'sangeethaya']",thailanthaya dhewrajusankallpaya gruhanirmanashilpaya muurthishilpaya sangeethaya
+76,History,Yuroopaya,Gamini Paliheena,"['yuroopaya', 'dhewanapilpraju', 'palamuwenielisabethrejina', 'pranshayesiwilyudhdha', 'westpeliyagiwisuma']",yuroopaya dhewanapilpraju palamuwenielisabethrejina pranshayesiwilyudhdha westpeliyagiwisuma
+77,History,Rusiyanu Wiplawaye Sakshikarayo,"Seenarathna Weerasinha, W. A. D. Tiyudar","['rusiyawa', 'wiplawaya', 'bolshewikwadhaya', 'pransisfardinandkumaru', 'dheshapalanaya']",rusiyawa wiplawaya bolshewikwadhaya pransisfardinandkumaru dheshapalanaya
+78,History,Liyon Trotski Rusiyanu Wiplawaye Ithihasaya,T. Andhradhi,"['rusiyawa', 'wiplawaya', 'militariwiplaweeyakamituwa', 'lenin', 'wintarmaligaya']",rusiyawa wiplawaya militariwiplaweeyakamituwa lenin wintarmaligaya
+79,History,Nodutu Japanaya,Sunil Siriwardhana,"['japanaya', 'hanamathsuri', 'aaharasanskruthiya', 'sethsubunuthsawaya', 'kafunsho']",japanaya hanamathsuri aaharasanskruthiya sethsubunuthsawaya kafunsho
+80,Novel,Gamperaliya,Martin Wichramasinghe,"['gama', 'janajeewithaya', 'aahara', 'hageem', 'rathriya']",gama janajeewithaya aahara hageem rathriya
+81,Novel,Okkoma Rajawaru,T.B Ilangarathna,"['gahaniya', 'minisun', 'aya', 'gama', 'janajeewithaya']",gahaniya minisun aya gama janajeewithaya
+82,Novel,Dedunna,Shaanthi Disanayake,"['sundara', 'premaya', 'mihiri', 'nawayowun', 'rasabara']",sundara premaya mihiri nawayowun rasabara
+83,Novel,Nikini,Shaanthi Disanayake,"['sathuta', 'shookaya', 'pasuthawili', 'ridena', 'kandulu']",sathuta shookaya pasuthawili ridena kandulu
+84,Novel,Warna,Shaanthi Disanayake,"['wedana', 'sanasiima', 'ahasa', 'gahaniya', 'as']",wedana sanasiima ahasa gahaniya as
+85,Novel,Wara Mal,Shaanthi Disanayake,"['gama', 'janajeewithaya', 'awyaaja', 'aadaraya', 'premaya']",gama janajeewithaya awyaaja aadaraya premaya
+86,Novel,Paradhal,Shaanthi Disanayake,"['premaya', 'jeewithaya', 'aadaraya', 'sathuta', 'kandulu']",premaya jeewithaya aadaraya sathuta kandulu
+87,Novel,Hondama Potha,T.S Dharmabandhu,"['kandulu', 'pasuthawilla', 'ralu', 'shookaya', 'susum']",kandulu pasuthawilla ralu shookaya susum
+88,Novel,Tharuniya Muudu Yai,T.S Dharmabandhu,"['tharuna', 'muhuda', 'ira', 'handa', 'sukumaala']",tharuna muhuda ira handa sukumaala
+89,Novel,Ira Sewaya,T.S Dharmabandhu,"['nawayowun', 'gahaniya', 'sirith', 'veera', 'udaara']",nawayowun gahaniya sirith veera udaara
+90,Novel,Asura Widilla,T.S Dharmabandhu,"['aadaraya', 'premaya', 'sathuta', 'wiwaahaya', 'mangala']",aadaraya premaya sathuta wiwaahaya mangala
+91,Novel,Api Yaalui,Anula De Silva,"['hageem', 'sitha', 'biya', 'sathuta', 'pawula']",hageem sitha biya sathuta pawula
+92,Novel,Yasoodarige Sangraamaya,Anula De Silva,"['kandulu', 'shookaya', 'susum', 'wedana', 'sitha']",kandulu shookaya susum wedana sitha
+93,Novel,Awith Giyaa,Sirisena Maitipe,"['gama', 'janajeewithaya', 'samaajaya', 'aparadha', 'susum']",gama janajeewithaya samaajaya aparadha susum
+94,Novel,Panapitin Narakaadiyata,Sirisena Maitipe,"['rahas', 'apaaya', 'sohona', 'kuthuhalaya', 'wipaaka']",rahas apaaya sohona kuthuhalaya wipaaka
+95,Novel,Agaharu Lowa Sathi Dekak,Sirisena Maitipe,"['rahas', 'balaporoththu', 'unusuma', 'lassana', 'ramaniiya']",rahas balaporoththu unusuma lassana ramaniiya
+96,Novel,Aparadhayakin Pasu,Sirisena Maitipe,"['gahaniya', 'kanthaawa', 'tharuniya', 'aashaawa', 'raathriya']",gahaniya kanthaawa tharuniya aashaawa raathriya
+97,Novel,Niraasha,Chandrasekara Mallawaarachchi,"['gahaniya', 'kanthaawa', 'aadaraya', 'premaya', 'sathuta']",gahaniya kanthaawa aadaraya premaya sathuta
+98,Novel,Kawdoo Awidin,Chandrasekara Mallawaarachchi,"['gahaniya', 'kanthaawa', 'aadaraya', 'premaya', 'sathuta']",gahaniya kanthaawa aadaraya premaya sathuta
+99,Novel,Ran Samanallu,Chandrasekara Mallawaarachchi,"['gahaniya', 'kanthaawa', 'aadaraya', 'premaya', 'sathuta']",gahaniya kanthaawa aadaraya premaya sathuta
+100,Novel,Chaathurya,Edward Mallawaarachchi,"['gahaniya', 'kanthaawa', 'aadaraya', 'premaya', 'sathuta']",gahaniya kanthaawa aadaraya premaya sathuta
+101,Novel,Awichara Samay,W.A Silva,"['muhuda', 'muhudubada', 'raja', 'raajadhani', 'aithihaasika']",muhuda muhudubada raja raajadhani aithihaasika
+102,Novel,Paasal Guruvarii,W.A Silva,"['gahaniya', 'balaporoththu', 'kandulu', 'porondu', 'nawayowun']",gahaniya balaporoththu kandulu porondu nawayowun
+103,Novel,Handapaana,W.A Silva,"['gahaniya', 'balaporoththu', 'kandulu', 'porondu', 'nawayowun']",gahaniya balaporoththu kandulu porondu nawayowun
+104,Novel,DaiyaYoogaya,W.A Silva,"['gahaniya', 'balaporoththu', 'kandulu', 'porondu', 'nawayowun']",gahaniya balaporoththu kandulu porondu nawayowun
+105,Novel,Wijayaba Kollaya,W.A Silva,"['raja', 'raajadhani', 'mahawaasala', 'balaporoththu', 'duka']",raja raajadhani mahawaasala balaporoththu duka
+106,Novel,Ridii Hawadiya,W.A Silva,"['minimarum', 'aparadha', 'malakanda', 'police', 'pisthoola']",minimarum aparadha malakanda police pisthoola
+107,Novel,Siriyalatha,W.A Silva,"['shookaya', 'wedana', 'kanagaatuwa', 'gahaniya', 'tharuniya']",shookaya wedana kanagaatuwa gahaniya tharuniya
+108,Novel,Kalaa Handa,W.A Silva,"['gahaniya', 'susum', 'wedana', 'duka', 'shookaya']",gahaniya susum wedana duka shookaya
+109,Novel,Saumyaalookaya,Sunethra Raajakarunanayake,"['jeewithaya', 'yuddhaya', 'koopaya', 'aadaraya', 'karunaawa']",jeewithaya yuddhaya koopaya aadaraya karunaawa
+110,Novel,Nandithaya,Sunethra Raajakarunanayake,"['gahaniya', 'duka', 'sookaya', 'deshapalanaya', 'sathuta']",gahaniya duka sookaya deshapalanaya sathuta
+111,Novel,Podu Purushayaa,Sunethra Raajakarunanayake,"['gahaniya', 'aadaraya', 'premaya', 'shookaya', 'duka']",gahaniya aadaraya premaya shookaya duka
+112,Novel,Himagira Bhikshuniya,Sunethra Raajakarunanayake,"['abhiyoga', 'dushkara', 'jaya', 'rahas', 'batahira']",abhiyoga dushkara jaya rahas batahira
+113,Novel,Sadhungira Giniganiyi,Sunethra Raajakarunanayake,"['awyaaja', 'biya', 'kandulu', 'shookaya', 'lassna']",awyaaja biya kandulu shookaya lassna
+114,Novel,Mathaka Potha,Sunethra Raajakarunanayake,"['gahaniya', 'lassana', 'wiwaahaya', 'alankaara', 'maranaya']",gahaniya lassana wiwaahaya alankaara maranaya
+115,Novel,Nikmana,Tenisan Perera,"['aadaraya', 'premaya', 'kandulu', 'duka', 'shookaya']",aadaraya premaya kandulu duka shookaya
+116,Novel,Danda Bhuumi,Tenisan Perera,"['waanija', 'aarthika', 'amaanushika', 'adhama', 'sanskruthiya']",waanija aarthika amaanushika adhama sanskruthiya
+117,Novel,Agni Kalpaya,Tenisan Perera,"['jeewithya', 'wimukthiya', 'daarshanika', 'uddhamanya', 'daduwam']",jeewithya wimukthiya daarshanika uddhamanya daduwam
+118,Novel,Hithawathiya,R Premadasa,"['aadraya', 'premaya', 'hadawatha', 'kandulu', 'duka']",aadraya premaya hadawatha kandulu duka
+119,Novel,Golu Muhuda,R Premadasa,"['buddha', 'kuthuhalaya', 'saamaya', 'koopaya', 'bodu']",buddha kuthuhalaya saamaya koopaya bodu
+120,Short story,As deka wage minihek,Lenin Amarawikrama,"['nagarikathwaya', 'nirmaanaya', 'budunwahanse', 'pathalaya', 'hamudawa']",nagarikathwaya nirmaanaya budunwahanse pathalaya hamudawa
+121,Short story,Higanno,Mu. Arukgoda ,"['winodaya', 'wiwekaya', 'niyogaya', 'rajakari', 'shokaya']",winodaya wiwekaya niyogaya rajakari shokaya
+122,Short story,Katha pahak,Gunadasa Amarasekara,"['charithaya', 'wikashanaya', 'wedakama', 'anduwa', 'shishyaththaya']",charithaya wikashanaya wedakama anduwa shishyaththaya
+123,Short story,Rathu rosa mala,Gunadasa Amarasekara,"['rosamala', 'guruwaraya', 'tharunawiya', 'shishya', 'awrudu']",rosamala guruwaraya tharunawiya shishya awrudu
+124,Short story,Sirimalee,Wimal Abesundara,"['sirimalee', 'buddiya', 'wiplawaya', 'tharuna', 'ruhuna']",sirimalee buddiya wiplawaya tharuna ruhuna
+125,Short story,EKtamen polowata,Gunadasa Amarasekara,"['awasanaya', 'anduwa', 'chandaya', 'duka', 'aurudu']",awasanaya anduwa chandaya duka aurudu
+126,Short story,Jeewana suwada,Gunadasa Amarasekara,"['kalahaya', 'apuru', 'mithurukama', 'kalaya', 'shishya']",kalahaya apuru mithurukama kalaya shishya
+127,Short story,Premawanthiyo,R.B.Athapaththu,"['awihahaka', 'horu', 'kopaya', 'hisaradaya', 'paluwa']",awihahaka horu kopaya hisaradaya paluwa
+128,Short story,Miriguwaka mahima,Inoka Hendhawitharana,"['premaya', 'miriguwa', 'wibhagaya', 'engrisi', 'aparadaya']",premaya miriguwa wibhagaya engrisi aparadaya
+129,Short story,Onchillawa,T.B.Ilanarathnam,"['urumaya', 'dhayadaya', 'hisaradaya', 'awrudu', 'onchillawa']",urumaya dhayadaya hisaradaya awrudu onchillawa
+130,Short story,Sediigiya pata,Samara Wijesinghe,"['dhanaya', 'kalaya', 'wanantharaya', 'thanikama', 'balaporoththuwa']",dhanaya kalaya wanantharaya thanikama balaporoththuwa
+131,Short story,Vankagiriya,Piyasili Wijemanna,"['asaranakama', 'aurudu', 'duppath', 'wasanawa', 'rajakari']",asaranakama aurudu duppath wasanawa rajakari
+132,Short story,Adura ei aramata,Madulugirige Wijemanna,"['rathriya', 'sithala', 'igenima', 'rassawa', 'shokaya']",rathriya sithala igenima rassawa shokaya
+133,Short story,Karaththa karayage keviti pahara,Premarathna B.Wadhanda,"['nirogikama', 'wsanawa', 'winodaya', 'uthsahaya', 'balaya']",nirogikama wsanawa winodaya uthsahaya balaya
+134,Short story,Mage kathawa,Martin Wikramasighe,"['sathuta', 'athmaarthaya', 'rassawa', 'sinawa', 'indirisi']",sathuta athmaarthaya rassawa sinawa indirisi
+135,Short story,Gahaniyak,Martin Wikramasighe,"['sinhala', 'raya', 'dakshakama', 'ugathkama', 'aparadaya']",sinhala raya dakshakama ugathkama aparadaya
+136,Short story,Magul gedara,Martin Wikramasighe,"['sarasawiya', 'aurudu', 'buddimath', 'biya', 'lajjawa']",sarasawiya aurudu buddimath biya lajjawa
+137,Short story,Billa saha apuuru muhuna,Martin Wikramasighe,"['higanna', 'buduras', 'wesak', 'aurudda', 'puranaya']",higanna buduras wesak aurudda puranaya
+138,Short story,Thanithalawa,Sarath Wijesuriya,"['miriguwa', 'senehasa', 'paliganima', 'santhapaya', 'shokaya']",miriguwa senehasa paliganima santhapaya shokaya
+139,Short story,Adhbhuutha katha,Meemana Karunarathna Premathilaka,"['samawa', 'kopaya', 'winashaya', 'bhithiya', 'sanwegaya']",samawa kopaya winashaya bhithiya sanwegaya
+140,Short story,Ekthara prema kathawak,H.A.Senewirathna,"['wishwawidyalaya', 'jiwithaya', 'igenima', 'gowijanathawa', 'iskole']",wishwawidyalaya jiwithaya igenima gowijanathawa iskole
+141,Short story,Dhadayama,J.K.Kumaradasa,"['awasanaya', 'dewiyo', 'balaporoththuwa', 'wiwahaya', 'aurudu']",awasanaya dewiyo balaporoththuwa wiwahaya aurudu
+142,Short story,Athhala dheegaya,A.V.Kumarasena,"['wesak', 'rathriya', 'poya', 'wiwahaya', 'jiwithaya']",wesak rathriya poya wiwahaya jiwithaya
+143,Short story,Balaporoththuwa,D.M.Kolabage,"['gurukama', 'rahasa', 'nambuwa', 'bhuthadosha', 'puduma']",gurukama rahasa nambuwa bhuthadosha puduma
+144,Short story,Dhuppathun nati lokaya,G.B.Senanayaka,"['widyalaya', 'shokaya', 'aurudu', 'shyeshta', 'manasika']",widyalaya shokaya aurudu shyeshta manasika
+145,Short story,Samuganeema saha thawath ketikatha,Kithsiri Kariyapperuma,"['ingrisi', 'anduwa', 'wedanawa', 'biya', 'kanagatuwa']",ingrisi anduwa wedanawa biya kanagatuwa
+146,Short story,Dhimuthu muthu,Dimuthu Kalahe,"['puranaya', 'dewlowa', 'paniwidaya', 'sangramaya', 'daiwaya']",puranaya dewlowa paniwidaya sangramaya daiwaya
+147,Short story,Masun maranno,Akmimana K.G.Karunathilaka,"['tharjanaya', 'premaya', 'wassa', 'wiwahaya', 'jiwithaya']",tharjanaya premaya wassa wiwahaya jiwithaya
+148,Short story,Pituwahal kireema,Kithsiri Kariyapperuma,"['adaraya', 'rawatima', 'balaporoththuwa', 'parithyagaya', 'sinhala']",adaraya rawatima balaporoththuwa parithyagaya sinhala
+149,Short story,Dhawal heena,Dharmasiri Gamage,"['rathriya', 'prithiya', 'suhadathawa', 'jiwithaya', 'sancharaka']",rathriya prithiya suhadathawa jiwithaya sancharaka
+150,Short story,Aluth balaporoththuwak,Saman Pushpa Gunasekara,"['samawa', 'adura', 'sinawa', 'uthsahaya', 'kalpanawa']",samawa adura sinawa uthsahaya kalpanawa
+151,Short story,Heli nokala aadaraya,Sugathamuni Knanasiri,"['awihinsaka', 'wedanawa', 'duppath', 'wiwahaya', 'sanwegaya']",awihinsaka wedanawa duppath wiwahaya sanwegaya
+152,Short story,Ekalos ginna,Ogastas Winayagarathnam,"['sinahawa', 'sathuta', 'awasanawa', 'uthsahaya', 'raya']",sinahawa sathuta awasanawa uthsahaya raya
+153,Short story,Kuda dhosthara- Maha Disapathi,Miniwan P.Thilakarathna,"['athithaya', 'sohona', 'rakiyawa', 'sewaya', 'anagathaya']",athithaya sohona rakiyawa sewaya anagathaya
+154,Short story,Handhayaya,Miniwan P.Thilakarathna,"['mathiwaranaya', 'anduwa', 'kanagatuwa', 'bhayanaka', 'barapathalakama']",mathiwaranaya anduwa kanagatuwa bhayanaka barapathalakama
+155,Short story,Aiya wage kenek,Gunasena Withana,"['duka', 'puduma', 'rakiyawa', 'winodaya', 'manusathkama']",duka puduma rakiyawa winodaya manusathkama
+156,Short story,Midhulak nati gedara,Rathnapala withana,"['jathiya', 'aurudu', 'higanna', 'paluwa', 'kadulu']",jathiya aurudu higanna paluwa kadulu
+157,Short story,Dharana puuja,Maussagolle Sirisumana,"['kmaththa', 'rathriya', 'wahallu', 'diyunuwa', 'maranaya']",kmaththa rathriya wahallu diyunuwa maranaya
+158,Short story,Nishantha Maya saha tawath katha,J.Jayaneththi,"['thrasaya', 'wishmaya', 'kuthuhalaya', 'premaya', 'wirahawa']",thrasaya wishmaya kuthuhalaya premaya wirahawa
+159,Short story,Nataka atak,Martin Wikramasighe,"['sinhala', 'nirbhaya', 'kanagatuwa', 'poronduwa', 'mahansiya']",sinhala nirbhaya kanagatuwa poronduwa mahansiya
+160,Aesthetics,Sigiri Gee(351-685),Nandhasena Mudiyanse,"['kawya', 'ithihasaya', 'sigiriyugaya', 'gee', 'parani']",kawya ithihasaya sigiriyugaya gee parani
+161,Aesthetics,Kolamba Kawya Sangitha,Kamal Waleboda,"['kawya', 'sandas', 'janaprawada', 'sanskruthika', 'kolambayugaya']",kawya sandas janaprawada sanskruthika kolambayugaya
+162,Aesthetics,Kavi nawak Kolambata,K.K.Saman Kumara,"['kawya', 'kolambayugaya', 'sahithya', 'shungaraya', 'jeewithaya']",kawya kolambayugaya sahithya shungaraya jeewithaya
+163,Aesthetics,Wasi diya dhahara,Saman Chandra Ranasinghe,"['kawya', 'nuthana', 'sanskruthika', 'samajaya', 'shokaya']",kawya nuthana sanskruthika samajaya shokaya
+164,Aesthetics,Manusiritha saha Helakavi Sanwada,Jayamaha Piyasena,"['kawya', 'parani', 'sirithwirith', 'rasaswadhaya', 'helahaula']",kawya parani sirithwirith rasaswadhaya helahaula
+165,Aesthetics,Kawyashekaraya,Kirialle Cnanawimala Swamin Wahanse,"['kawya', 'parani', 'jathakakatha', 'bhashawa', 'budhudhama']",kawya parani jathakakatha bhashawa budhudhama
+166,Aesthetics,Padma Thatakaya,Sunil Sarath Perera,"['kawya', 'geethaya', 'nuthana', 'janaprawada', 'bhashawa']",kawya geethaya nuthana janaprawada bhashawa
+167,Aesthetics,Kalpalatha,Dharshana Rathnayake,"['kawya', 'uthantha', 'dharshanika', 'wichara', 'sampradhaya']",kawya uthantha dharshanika wichara sampradhaya
+168,Aesthetics,Asan Paththini Devathawi,Monika Ruwanpathirana,"['kawya', 'kiwidhiya', 'sahithya', 'wichara', 'kanthawa']",kawya kiwidhiya sahithya wichara kanthawa
+169,Aesthetics,Mal wadam Sinasiya Yuthuya,Dinu Rajaguru,"['kawya', 'nisadas', 'saralabasa', 'nuthana', 'jeewithaya']",kawya nisadas saralabasa nuthana jeewithaya
+170,Aesthetics,Ima,Janaka Kumara Herath,"['kawya', 'katha', 'nuthana', 'sandas', 'charitha']",kawya katha nuthana sandas charitha
+171,Aesthetics,Komala rekha,Sri Chandrarathne Manawasinghe,"['kawya', 'gama', 'samajaya', 'yatharthaya', 'parisaraya']",kawya gama samajaya yatharthaya parisaraya
+172,Aesthetics,Saraya,Wellala Jayamaha,"['kawya', 'gaburubasa', 'parani', 'janaprawada', 'janaya']",kawya gaburubasa parani janaprawada janaya
+173,Aesthetics,Subhashithaya,Alagiyewanna Mukewatiya,"['kawya', 'saralabasa', 'upadeshathmaka', 'sahithya', 'parani']",kawya saralabasa upadeshathmaka sahithya parani
+174,Aesthetics,Kavi Sangarawa,S.Godage Publications,"['kawya', 'gaburubasa', 'parani', 'bhashawa', 'rasaswadaya']",kawya gaburubasa parani bhashawa rasaswadaya
+175,Aesthetics,Drohiyage kavipotha,Pathum Ranasinghe,"['kawya', 'saralabasa', 'nuthana', 'yatharthaya', 'prabandha']",kawya saralabasa nuthana yatharthaya prabandha
+176,Aesthetics,Palugama,Meemana Prematilake,"['kawya', 'sanskrutiya', 'gama', 'janaprawada', 'gaburubasa']",kawya sanskrutiya gama janaprawada gaburubasa
+177,Aesthetics,Premaya nohoth Maranya,Sujeewa Niranjani Rathnayake,"['kawya', 'saralabasa', 'nuthana', 'nisadas', 'premaya']",kawya saralabasa nuthana nisadas premaya
+178,Aesthetics,Handa bin Panguwa,Asanka Ruwan Sagara,"['kawya', 'nuthana', 'saralabasa', 'swabadhama', 'parisaraya']",kawya nuthana saralabasa swabadhama parisaraya
+179,Aesthetics,Pem Dhahana,Pransis Bulathsinhale,"['kawya', 'charitha', 'kiwidhiya', 'kanthawa', 'wirahawa']",kawya charitha kiwidhiya kanthawa wirahawa
+180,Aesthetics,Kawya Sewanaya,Mahagamasekara,"['kawya', 'charitha', 'parani', 'saralabasa', 'rasaswadaya']",kawya charitha parani saralabasa rasaswadaya
+181,Aesthetics,Greeka natya Sampradhaya,Walter Marasinghe,"['natya', 'wideshiya', 'greeka', 'wedika', 'purawurtha']",natya wideshiya greeka wedika purawurtha
+182,Aesthetics,Asirimath rangana kalawa,Ben Rasanak,"['natya', 'charitha', 'wedika', 'hagim', 'puhunuwa']",natya charitha wedika hagim puhunuwa
+183,Aesthetics,Shakespear ha Hamlet,P.S.B.Senanayake,"['natya', 'charitha', 'shakespear', 'wedika', 'wideshiya']",natya charitha shakespear wedika wideshiya
+184,Aesthetics,Sudho Sudu,Parakrama Niriella,"['natya', 'kawya', 'pitapath', 'debas', 'nawathaliwima']",natya kawya pitapath debas nawathaliwima
+185,Aesthetics,Prasangika kala,Mangalika Jayathunga,"['natya', 'prasangika', 'narthanaya', 'sangeethaya', 'samajaya']",natya prasangika narthanaya sangeethaya samajaya
+186,Aesthetics,Natyashastra(Dwitiya Bhagaya),Walter Marasinghe,"['natya', 'parani', 'purawurtha', 'wideshiya', 'puhunuwa']",natya parani purawurtha wideshiya puhunuwa
+187,Aesthetics,Chitrapata Siddanta ha wichara,Chandrasiri Palleguru,"['natya', 'sinama', 'adyapanika', 'prasangika', 'sidhdhantha']",natya sinama adyapanika prasangika sidhdhantha
+188,Aesthetics,Rashomon,Prof.Ariya Rajakaruna,"['natya', 'saralabasa', 'wideshiya', 'pariwarthana', 'pitapath']",natya saralabasa wideshiya pariwarthana pitapath
+189,Aesthetics,Sinema Rupa Ridhmaya,Chandana Silva,"['natya', 'sinama', 'adyapanika', 'prasangika', 'handunwadeem']",natya sinama adyapanika prasangika handunwadeem
+190,Aesthetics,Doloswana Rathriya,Pushparani Wickramarathne,"['natya', 'shakespear', 'parani', 'wedika', 'wideshiya']",natya shakespear parani wedika wideshiya
+191,Aesthetics,Sangitha Adyapanaye Gamanmaga,Iranga Samindhani Weerakkodi,"['sangeetha', 'peradiga', 'saralabasa', 'handunwadeem', 'wideshiya']",sangeetha peradiga saralabasa handunwadeem wideshiya
+192,Aesthetics,Geethasikshaka,M.G.Perera,"['sangeetha', 'parani', 'gaburubasa', 'upadeshanathmaka', 'adyapanika']",sangeetha parani gaburubasa upadeshanathmaka adyapanika
+193,Aesthetics,Sindu Wimasuma,Manori Manamperi,"['sangeetha', 'peradiga', 'geethaya', 'saralabasa', 'nuthana']",sangeetha peradiga geethaya saralabasa nuthana
+194,Aesthetics,Siddantha Sambhawya sangeethaya,Shanthi Geethadeva,"['sangeetha', 'sambawya', 'siddantha', 'adyapanika', 'rasawadaya']",sangeetha sambawya siddantha adyapanika rasawadaya
+195,Aesthetics,Gee Sara Muwaradha(Dr.Pandit.Amaradeva),NJCT Publication,"['sangeetha', 'charitha', 'amaradewa', 'peradiga', '']",sangeetha charitha amaradewa peradiga 
+196,Aesthetics,Gammane upan Geethaya,Rohana Baddaghe,"['sangeetha', 'charitha', 'baddage', 'deshiya', 'gama']",sangeetha charitha baddage deshiya gama
+197,Aesthetics,Lankawe Sangeetha Sambhawaya,C da S .Kulathilake,"['sangeetha', 'sambawya', 'rasaswadaya', 'adyapanika', 'parikalpana']",sangeetha sambawya rasaswadaya adyapanika parikalpana
+198,Aesthetics,Wadayakayaku Bihiwima,Amaranath Ranathunga,"['sangeetha', 'wadanaya', 'adyapanika', 'upaseshathmaka', 'adunika']",sangeetha wadanaya adyapanika upaseshathmaka adunika
+199,Aesthetics,Udarata Sangeethaya,Pranith Abhayasundara,"['sangeetha', 'deshiya', 'peradiga.pariwarthana', 'ithihasaya', 'purawurtha']",sangeetha deshiya peradiga.pariwarthana ithihasaya purawurtha
